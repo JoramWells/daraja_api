@@ -12,5 +12,5 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 15
-      - run: yarn ci
+      - run: yarn i
       - run: yarn start
