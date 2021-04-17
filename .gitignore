@@ -1,1 +1,4 @@
 node_modules
+routes
+app.js
+server.js
