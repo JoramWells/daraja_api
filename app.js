@@ -1,7 +1,7 @@
 const express = require("express");
 const axios = require("axios");
 const bodyParser = require("body-parser");
-const app = express();
+// const app = express();
 const dateFormat = require("dateformat");
 const PORT = process.env.PORT || 5000;
 
